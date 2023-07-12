@@ -68,7 +68,7 @@ cd CIFAR_10_Image_Classification
 
 3. Install the dependencies:
 ```sh
-pip install -r requirements.txt
+pip install -r ./Codes/requirements.txt
 ```
 
 ### 🎮 Using CIFAR_10_Image_Classification
