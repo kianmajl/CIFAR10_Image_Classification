@@ -29,7 +29,7 @@ This project is one of the Computational Intelligence course projects in the spr
    * [SOM.ipynb](./Codes/SOM.ipynb)
    * [Training_Neural_Network.ipynb](./Codes/Training_Neural_Network.ipynb)
    * [Training_Using_Neuro_Evolution.ipynb](./Codes/Training_Using_Neuro_Evolution.ipynb)
-   * [requirements.txt](requirements.txt)
+   * [requirements.txt](./Codes/requirements.txt)
  * [Documents](./Documents)
    * [Persian_Doc.pdf](./Documents/Persian_Doc.pdf)
    * [Problem Statement.pdf](./Documents/Problem%20Statement.pdf)
